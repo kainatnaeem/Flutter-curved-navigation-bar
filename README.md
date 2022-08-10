@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+[curved navigation bar flutter by ktech.webm](https://user-images.githubusercontent.com/54583829/183871920-e79683e5-19bc-410e-84de-29a3769209d4.webm)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
