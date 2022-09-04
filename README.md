@@ -1,4 +1,4 @@
-# curved_navigationbar_byktech
+# curved_navigationbar
 
 A new Flutter project.
 
