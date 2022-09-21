@@ -15,8 +15,8 @@ class Home extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-          
-                Text("Curved Bottom Navigation Bar",style:TextStyle(fontSize: 20,fontWeight: FontWeight.bold)),
+              Text("Curved Bottom Navigation Bar",
+                  style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
               Image.asset(
                 'images/i3.jpg',
               ),
